@@ -1,8 +1,8 @@
-\# Day 02 — Digital Evidence \& Chain of Custody
+# Day 02 — Digital Evidence & Chain of Custody
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -22,7 +22,7 @@ The primary focus is maintaining evidence integrity and establishing an auditabl
 
 
 
-\## Learning Objectives
+## Learning Objectives
 
 
 
@@ -30,27 +30,27 @@ This lab developed practical understanding of:
 
 
 
-\* Digital evidence identification
+* Digital evidence identification
 
-\* Volatile and non-volatile evidence
+* Volatile and non-volatile evidence
 
-\* Order of volatility
+* Order of volatility
 
-\* Evidence preservation
+* Evidence preservation
 
-\* Forensic acquisition
+* Forensic acquisition
 
-\* Evidence integrity
+* Evidence integrity
 
-\* Cryptographic hashing concepts
+* Cryptographic hashing concepts
 
-\* Evidence registers
+* Evidence registers
 
-\* Chain of custody
+* Chain of custody
 
-\* Evidence transfer documentation
+* Evidence transfer documentation
 
-\* Risk-based evidence acquisition
+* Risk-based evidence acquisition
 
 
 
@@ -58,7 +58,7 @@ This lab developed practical understanding of:
 
 
 
-\## Investigation Scenario
+## Investigation Scenario
 
 
 
@@ -70,23 +70,23 @@ Potential evidence included:
 
 
 
-\* Running processes
+* Running processes
 
-\* RAM
+* RAM
 
-\* Active network connection to `185.XX.XX.24:443`
+* Active network connection to `185.XX.XX.24:443`
 
-\* Windows Event Logs
+* Windows Event Logs
 
-\* `update.exe`
+* `update.exe`
 
-\* Employee 512 GB SSD
+* Employee 512 GB SSD
 
-\* Wazuh alerts
+* Wazuh alerts
 
-\* `Invoice.docm`
+* `Invoice.docm`
 
-\* Connected USB storage device
+* Connected USB storage device
 
 
 
@@ -98,7 +98,7 @@ The investigation required determining how this evidence should be classified, p
 
 
 
-\## Volatile Evidence
+## Volatile Evidence
 
 
 
@@ -106,11 +106,11 @@ The following evidence was classified primarily as volatile:
 
 
 
-\* Running processes
+* Running processes
 
-\* RAM
+* RAM
 
-\* Active network connections
+* Active network connections
 
 
 
@@ -126,7 +126,7 @@ RAM was considered particularly important because it may contain process memory,
 
 
 
-\## Non-Volatile Evidence
+## Non-Volatile Evidence
 
 
 
@@ -134,17 +134,17 @@ The following evidence was classified primarily as non-volatile:
 
 
 
-\* Windows Event Logs
+* Windows Event Logs
 
-\* `update.exe`
+* `update.exe`
 
-\* Employee SSD
+* Employee SSD
 
-\* Wazuh alerts already stored by the SIEM
+* Wazuh alerts already stored by the SIEM
 
-\* `Invoice.docm`
+* `Invoice.docm`
 
-\* USB storage contents
+* USB storage contents
 
 
 
@@ -160,7 +160,7 @@ Persistent evidence can still be modified, deleted, cleared, or overwritten.
 
 
 
-\## Order of Volatility
+## Order of Volatility
 
 
 
@@ -216,7 +216,7 @@ If the live workstation presents an immediate operational threat, containment re
 
 
 
-\## Evidence Handling
+## Evidence Handling
 
 
 
@@ -228,23 +228,23 @@ Potential consequences include:
 
 
 
-\* Activating malware
+* Activating malware
 
-\* Creating new network connections
+* Creating new network connections
 
-\* Modifying files
+* Modifying files
 
-\* Creating registry entries
+* Creating registry entries
 
-\* Establishing persistence
+* Establishing persistence
 
-\* Generating new logs
+* Generating new logs
 
-\* Altering timestamps
+* Altering timestamps
 
-\* Contaminating the investigation environment
+* Contaminating the investigation environment
 
-\* Potentially compromising additional systems
+* Potentially compromising additional systems
 
 
 
@@ -284,7 +284,7 @@ Suspicious executable analysis should be conducted using an appropriately contro
 
 
 
-\## Evidence Register
+## Evidence Register
 
 
 
@@ -318,29 +318,29 @@ The register contains information including:
 
 
 
-\* Evidence ID
+* Evidence ID
 
-\* Case ID
+* Case ID
 
-\* Description
+* Description
 
-\* Evidence type
+* Evidence type
 
-\* Source
+* Source
 
-\* Volatility
+* Volatility
 
-\* Collector
+* Collector
 
-\* Collection time
+* Collection time
 
-\* Acquisition method
+* Acquisition method
 
-\* SHA-256 status
+* SHA-256 status
 
-\* Evidence status
+* Evidence status
 
-\* Notes
+* Notes
 
 
 
@@ -352,7 +352,7 @@ Unknown values were recorded as `PENDING` rather than fabricated.
 
 
 
-\## Chain of Custody
+## Chain of Custody
 
 
 
@@ -436,7 +436,7 @@ Returned / Stored
 
 
 
-\## Hash Integrity Principle
+## Hash Integrity Principle
 
 
 
@@ -472,17 +472,17 @@ However, it does not independently establish:
 
 
 
-\* Who created the original data
+* Who created the original data
 
-\* Who performed an activity
+* Who performed an activity
 
-\* Whether a suspicious file is malware
+* Whether a suspicious file is malware
 
-\* Whether the workstation was compromised
+* Whether the workstation was compromised
 
-\* When an activity occurred
+* When an activity occurred
 
-\* Whether every evidence-handling procedure was performed correctly
+* Whether every evidence-handling procedure was performed correctly
 
 
 
@@ -498,7 +498,7 @@ Therefore:
 
 
 
-\## Evidence Acquisition Decision
+## Evidence Acquisition Decision
 
 
 
@@ -534,7 +534,7 @@ If active ransomware, destructive malware, or ongoing attacks against other syst
 
 
 
-\## Lab Artifacts
+## Lab Artifacts
 
 
 
@@ -566,29 +566,29 @@ Day-02-Evidence-Chain-of-Custody/
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* Digital evidence classification
+* Digital evidence classification
 
-\* Volatile evidence identification
+* Volatile evidence identification
 
-\* Order-of-volatility reasoning
+* Order-of-volatility reasoning
 
-\* Evidence preservation
+* Evidence preservation
 
-\* Evidence register creation
+* Evidence register creation
 
-\* Chain-of-custody documentation
+* Chain-of-custody documentation
 
-\* Evidence transfer tracking
+* Evidence transfer tracking
 
-\* Integrity verification concepts
+* Integrity verification concepts
 
-\* Risk-based forensic decision-making
+* Risk-based forensic decision-making
 
-\* Professional DFIR documentation
+* Professional DFIR documentation
 
 
 
@@ -596,7 +596,7 @@ Day-02-Evidence-Chain-of-Custody/
 
 
 
-\## Key Lesson
+## Key Lesson
 
 
 
@@ -648,7 +648,7 @@ The investigator must be able to explain where evidence originated, how it was c
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
@@ -657,6 +657,7 @@ Day 02 established the evidence-management foundation required for defensible di
 
 
 The lab demonstrated that evidence integrity depends not only on technical analysis but also on preservation, documentation, acquisition methodology, cryptographic verification, and continuous chain-of-custody records.
+
 
 
 

@@ -1,8 +1,8 @@
-\# Day 01 — Digital Forensics \& DFIR Fundamentals
+# Day 01 — Digital Forensics & DFIR Fundamentals
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,7 +18,7 @@ The primary objective was to develop an evidence-based investigative mindset and
 
 
 
-\## Learning Objectives
+## Learning Objectives
 
 
 
@@ -26,25 +26,25 @@ By completing this lab, I developed an understanding of:
 
 
 
-\* Digital Forensics and Incident Response (DFIR)
+* Digital Forensics and Incident Response (DFIR)
 
-\* The digital forensic investigation lifecycle
+* The digital forensic investigation lifecycle
 
-\* Digital evidence preservation
+* Digital evidence preservation
 
-\* Volatile and non-volatile evidence
+* Volatile and non-volatile evidence
 
-\* Evidence integrity
+* Evidence integrity
 
-\* Digital forensic artifacts
+* Digital forensic artifacts
 
-\* Indicators of Compromise (IOCs)
+* Indicators of Compromise (IOCs)
 
-\* Evidence correlation
+* Evidence correlation
 
-\* Timeline analysis
+* Timeline analysis
 
-\* Evidence-based forensic conclusions
+* Evidence-based forensic conclusions
 
 
 
@@ -52,7 +52,7 @@ By completing this lab, I developed an understanding of:
 
 
 
-\## DFIR Investigation Lifecycle
+## DFIR Investigation Lifecycle
 
 
 
@@ -116,7 +116,7 @@ Investigators should avoid unnecessary actions that could alter or destroy poten
 
 
 
-\## Investigation Scenario
+## Investigation Scenario
 
 
 
@@ -140,7 +140,7 @@ Management requested an investigation to determine whether the workstation had b
 
 
 
-\## Initial Forensic Response
+## Initial Forensic Response
 
 
 
@@ -156,23 +156,23 @@ Potential evidence includes:
 
 
 
-\* RAM
+* RAM
 
-\* Running processes
+* Running processes
 
-\* Active network connections
+* Active network connections
 
-\* Logged-on users
+* Logged-on users
 
-\* PowerShell activity
+* PowerShell activity
 
-\* Windows Event Logs
+* Windows Event Logs
 
-\* Wazuh alerts
+* Wazuh alerts
 
-\* Suspicious files
+* Suspicious files
 
-\* Relevant timestamps
+* Relevant timestamps
 
 
 
@@ -184,7 +184,7 @@ Restarting the workstation, deleting suspicious files, or immediately allowing a
 
 
 
-\## Volatile Evidence
+## Volatile Evidence
 
 
 
@@ -196,19 +196,19 @@ Potential volatile evidence includes:
 
 
 
-\* Running malicious processes
+* Running malicious processes
 
-\* Active network connections
+* Active network connections
 
-\* Command-line arguments
+* Command-line arguments
 
-\* Runtime artifacts
+* Runtime artifacts
 
-\* Injected code
+* Injected code
 
-\* Decrypted information present in memory
+* Decrypted information present in memory
 
-\* Credentials or authentication material present in memory
+* Credentials or authentication material present in memory
 
 
 
@@ -224,7 +224,7 @@ However, containment decisions must consider operational risk and established in
 
 
 
-\## PowerShell Analysis
+## PowerShell Analysis
 
 
 
@@ -244,19 +244,19 @@ Important investigative questions include:
 
 
 
-\* Who launched PowerShell?
+* Who launched PowerShell?
 
-\* What was its parent process?
+* What was its parent process?
 
-\* What command line was executed?
+* What command line was executed?
 
-\* Was the command encoded or obfuscated?
+* Was the command encoded or obfuscated?
 
-\* What network connections occurred afterward?
+* What network connections occurred afterward?
 
-\* What files were created or modified?
+* What files were created or modified?
 
-\* What processes subsequently executed?
+* What processes subsequently executed?
 
 
 
@@ -300,7 +300,7 @@ This sequence provides substantially stronger evidence than the presence of `pow
 
 
 
-\## Evidence Identified
+## Evidence Identified
 
 
 
@@ -344,7 +344,7 @@ These artifacts should be correlated with additional host, memory, network, and 
 
 
 
-\## Timeline Analysis
+## Timeline Analysis
 
 
 
@@ -370,7 +370,7 @@ The following sequence of events was observed:
 
 
 
-\### Analysis
+### Analysis
 
 
 
@@ -398,7 +398,7 @@ However, further examination of the PowerShell command, `update.exe`, network ac
 
 
 
-\## Forensic Reasoning
+## Forensic Reasoning
 
 
 
@@ -466,7 +466,7 @@ This allows the investigation to move from individual observations toward defens
 
 
 
-\## Key DFIR Principle
+## Key DFIR Principle
 
 
 
@@ -518,7 +518,7 @@ Forensic conclusions should remain within what the available evidence can reason
 
 
 
-\## Lab Structure
+## Lab Structure
 
 
 
@@ -548,31 +548,31 @@ Future evidence, screenshots, notes, and reports related to this lab can be stor
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* DFIR fundamentals
+* DFIR fundamentals
 
-\* Evidence identification
+* Evidence identification
 
-\* Evidence preservation awareness
+* Evidence preservation awareness
 
-\* Volatile evidence awareness
+* Volatile evidence awareness
 
-\* Initial incident triage
+* Initial incident triage
 
-\* Windows process analysis
+* Windows process analysis
 
-\* IOC identification
+* IOC identification
 
-\* Timeline analysis
+* Timeline analysis
 
-\* Evidence correlation
+* Evidence correlation
 
-\* Forensic reasoning
+* Forensic reasoning
 
-\* Technical documentation
+* Technical documentation
 
 
 
@@ -580,7 +580,7 @@ Future evidence, screenshots, notes, and reports related to this lab can be stor
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
@@ -593,6 +593,7 @@ The most important lesson is that forensic analysis is not simply about finding 
 
 
 This evidence-driven approach will form the foundation for subsequent DFIR investigations throughout this lab.
+
 
 
 
