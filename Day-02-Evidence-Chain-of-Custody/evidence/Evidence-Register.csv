@@ -1,0 +1,8 @@
+EvidenceID,CaseID,EvidenceDescription,EvidenceType,Source,Volatility,CollectedBy,CollectionDateTime,AcquisitionMethod,SHA256,Status,Notes
+DFIR-D02-E001,DFIR-2026-001,Memory/RAM acquisition,Memory,Employee Windows Workstation,Volatile,Ifeanyi David Ezechukwukere,2026-09-21 11:20,Live memory acquisition,PENDING,Identified,Priority volatile evidence
+DFIR-D02-E002,DFIR-2026-001,Employee 512 GB SSD,Storage,Employee Windows Workstation,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,Forensic disk acquisition,PENDING,Identified,Original storage media
+DFIR-D02-E003,DFIR-2026-001,Suspicious executable update.exe,File,C:\Users\David\AppData\Local\Temp\update.exe,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,Forensic collection,PENDING,Identified,Suspicious executable requiring isolated analysis
+DFIR-D02-E004,DFIR-2026-001,Suspicious Word document Invoice.docm,File,Employee Windows Workstation,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,Forensic collection,PENDING,Identified,Document reportedly opened before PowerShell alert
+DFIR-D02-E005,DFIR-2026-001,Connected USB storage device,Removable Storage,Employee Windows Workstation,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,Forensic acquisition,PENDING,Identified,Connection state should also be documented
+DFIR-D02-E006,DFIR-2026-001,Windows Event Logs,Logs,Employee Windows Workstation,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,Forensic log collection,PENDING,Identified,Potential host activity evidence
+DFIR-D02-E007,DFIR-2026-001,Wazuh alerts,SIEM Logs,Wazuh Infrastructure,Non-Volatile,Ifeanyi David Ezechukwukere,PENDING,SIEM export,PENDING,Identified,Potential detection and timeline evidence

@@ -1,0 +1,3 @@
+CaseID,EvidenceID,Action,DateTime,TransferredFrom,TransferredTo,Purpose,Location,EvidenceCondition,HashVerification,Notes
+DFIR-2026-001,DFIR-D02-E001,Collected,2026-09-21 11:20,Ifeanyi David Ezechukwukere,Ifeanyi David Ezechukwukere,Initial forensic acquisition,Investigation Site,Documented,PENDING,Initial custody established
+DFIR-2026-001,DFIR-D02-E001,Transferred,2026-09-21 13:45,Ifeanyi David Ezechukwukere,Analyst B,Forensic examination,Forensic Laboratory,Documented,PENDING,Custody transferred for examination
