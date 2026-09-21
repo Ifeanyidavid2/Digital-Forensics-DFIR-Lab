@@ -1,0 +1,6 @@
+DFIR TRAINING EVIDENCE
+Case: DFIR-2026-001
+Evidence ID: DFIR-D03-E001
+Artifact: Simulated suspicious PowerShell activity
+Status: Training Sample
+Additional investigation note.

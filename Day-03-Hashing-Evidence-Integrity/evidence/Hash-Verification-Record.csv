@@ -1,0 +1,4 @@
+CaseID,EvidenceID,File,State,SHA256,VerificationResult,Notes
+DFIR-2026-001,DFIR-D03-E001,suspicious-activity.txt,Original,E8C7C05230CDD68C0DDDBAFD5D7FF8EEF7D3205375A5486D79A22BE7516FB830,Baseline,Original training evidence
+DFIR-2026-001,DFIR-D03-E001,suspicious-activity-working.txt,Working Copy Before Modification,E8C7C05230CDD68C0DDDBAFD5D7FF8EEF7D3205375A5486D79A22BE7516FB830,MATCH,Working copy verified against original
+DFIR-2026-001,DFIR-D03-E001,suspicious-activity-working.txt,Working Copy After Modification,447E6EA47FB81B242BE834A9EE0E782FC0A24DF77432994B6C527140C869948E,MISMATCH,Modification detected through SHA-256 verification
