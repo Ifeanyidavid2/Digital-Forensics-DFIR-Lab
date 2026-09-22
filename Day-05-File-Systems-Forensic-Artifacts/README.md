@@ -233,15 +233,10 @@ Four controlled artifacts were created for the investigation.
 
 
 | Evidence ID   | Artifact       | Source               | Forensic Value                                                  |
-
 | ------------- | -------------- | -------------------- | --------------------------------------------------------------- |
-
 | DFIR-D05-E001 | MFT Record     | NTFS `$MFT`          | Filesystem metadata associated with deleted spreadsheet         |
-
 | DFIR-D05-E002 | USN Activity   | NTFS `$UsnJrnl`      | Filesystem change activity associated with spreadsheet filename |
-
 | DFIR-D05-E003 | USB Activity   | USB Artifact         | Records simulated USB connection                                |
-
 | DFIR-D05-E004 | Logon Activity | Windows Security Log | Records authenticated user-session context                      |
 
 
@@ -283,15 +278,10 @@ The normalized events were then sorted chronologically and exported to:
 
 
 | Time  | Evidence ID   | Source               | Observation                                              |
-
 | ----- | ------------- | -------------------- | -------------------------------------------------------- |
-
 | 10:10 | DFIR-D05-E004 | Windows Security Log | David's authenticated session was active                 |
-
 | 10:12 | DFIR-D05-E003 | USB Artifact         | Training USB Device connected                            |
-
 | 10:14 | DFIR-D05-E001 | `$MFT`               | Spreadsheet record marked deleted                        |
-
 | 10:15 | DFIR-D05-E002 | `$UsnJrnl`           | Filesystem activity associated with spreadsheet filename |
 
 
