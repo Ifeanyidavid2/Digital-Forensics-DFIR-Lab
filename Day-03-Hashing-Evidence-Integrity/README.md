@@ -385,13 +385,9 @@ The modification therefore caused the working copy to fail integrity verificatio
 
 
 | Evidence State                   | SHA-256                                                            | Verification |
-
 | -------------------------------- | ------------------------------------------------------------------ | ------------ |
-
 | Original evidence                | `E8C7C05230CDD68C0DDDBAFD5D7FF8EEF7D3205375A5486D79A22BE7516FB830` | Baseline     |
-
 | Working copy before modification | `E8C7C05230CDD68C0DDDBAFD5D7FF8EEF7D3205375A5486D79A22BE7516FB830` | MATCH        |
-
 | Working copy after modification  | `447E6EA47FB81B242BE834A9EE0E782FC0A24DF77432994B6C527140C869948E` | MISMATCH     |
 
 
