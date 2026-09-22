@@ -467,13 +467,9 @@ The forensic approach is to document the condition of the evidence, protect it f
 
 
 | Artifact                         |             Size | SHA-256 Result      | Verification |
-
 | -------------------------------- | ---------------: | ------------------- | ------------ |
-
 | DFIR-D04-E001-source.img         | 16,777,216 bytes | E26AABF4...DBD4B36  | Baseline     |
-
 | DFIR-D04-E001-acquired.dd        | 16,777,216 bytes | E26AABF4...DBD4B36  | MATCH        |
-
 | DFIR-D04-E001-corruption-test.dd | 16,777,216 bytes | AE3BAEB6...E2EAD4CF | MISMATCH     |
 
 
