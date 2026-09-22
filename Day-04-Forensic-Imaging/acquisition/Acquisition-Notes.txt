@@ -1,0 +1,32 @@
+DFIR FORENSIC ACQUISITION LAB
+
+Case ID: DFIR-2026-002
+Evidence ID: DFIR-D04-E001
+Lab Type: Controlled forensic imaging simulation
+Acquisition Format: RAW/DD-style binary image
+Source Size: 16777216 bytes (16 MiB)
+Hash Algorithm: SHA-256
+
+SOURCE SHA-256:
+E26AABF4A9DB39A4C7579BC0D391CE1D157E0B4A9EC6399678005FB04DBD4B36
+
+ACQUIRED IMAGE SHA-256:
+E26AABF4A9DB39A4C7579BC0D391CE1D157E0B4A9EC6399678005FB04DBD4B36
+
+ACQUISITION VERIFICATION:
+MATCH
+
+CONTROLLED CORRUPTION TEST SHA-256:
+AE3BAEB6E642473963A6E93480C2C352C7C0B5C6BB79E5FE770E9916E2EAD4CF
+
+CONTROLLED CORRUPTION VERIFICATION:
+MISMATCH
+
+LAB LIMITATIONS:
+This exercise used a controlled binary source image rather than a physical USB device.
+No hardware write blocker was used.
+The exercise simulated RAW/DD-style byte-for-byte acquisition using .NET file streams.
+The corruption test was performed only on a separate disposable copy.
+
+FORENSIC PRINCIPLE:
+Preserve -> Acquire -> Hash -> Verify -> Analyze

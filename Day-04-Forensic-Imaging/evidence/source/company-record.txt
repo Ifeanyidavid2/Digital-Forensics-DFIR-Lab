@@ -1,0 +1,5 @@
+CONFIDENTIAL - DFIR TRAINING DATA
+Case ID: DFIR-2026-002
+Evidence ID: DFIR-D04-E001
+Source: Simulated USB Storage
+Purpose: Forensic Imaging Training

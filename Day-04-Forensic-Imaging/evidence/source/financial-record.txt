@@ -1,0 +1,4 @@
+Employee: Training User
+Document: Financial Transfer Record
+Classification: Confidential
+Status: DFIR Training Artifact
