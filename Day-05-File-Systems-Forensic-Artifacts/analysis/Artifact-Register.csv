@@ -1,0 +1,5 @@
+CaseID,EvidenceID,Artifact,Source,ForensicValue
+DFIR-2026-003,DFIR-D05-E001,MFT Record,NTFS $MFT,Filesystem metadata associated with deleted spreadsheet
+DFIR-2026-003,DFIR-D05-E002,USN Activity,NTFS $UsnJrnl,Filesystem change activity associated with spreadsheet filename
+DFIR-2026-003,DFIR-D05-E003,USB Activity,USB Artifact,Records simulated USB connection
+DFIR-2026-003,DFIR-D05-E004,Logon Activity,Windows Security Log,Records authenticated user-session context

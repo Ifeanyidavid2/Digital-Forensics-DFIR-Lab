@@ -1,0 +1,2 @@
+CaseID,EvidenceID,Artifact,Device,Activity,Timestamp
+DFIR-2026-003,DFIR-D05-E003,USB Artifact,Training USB Device,Device connected,2026-09-22T10:12:00+01:00

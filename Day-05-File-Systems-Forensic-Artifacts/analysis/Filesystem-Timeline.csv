@@ -1,0 +1,5 @@
+"Timestamp","EvidenceID","Source","Event","Subject"
+"2026-09-22T10:10:00.0000000+01:00","DFIR-D05-E004","Windows Security Log","Authenticated session active","David"
+"2026-09-22T10:12:00.0000000+01:00","DFIR-D05-E003","USB Artifact","Device connected","Training USB Device"
+"2026-09-22T10:14:00.0000000+01:00","DFIR-D05-E001","$MFT","File record marked Deleted","Board-Financial-Plan-2027.xlsx"
+"2026-09-22T10:15:00.0000000+01:00","DFIR-D05-E002","$UsnJrnl","Filesystem activity associated with filename","Board-Financial-Plan-2027.xlsx"

@@ -1,0 +1,2 @@
+CaseID,EvidenceID,Artifact,Filename,Activity,Timestamp
+DFIR-2026-003,DFIR-D05-E002,$UsnJrnl,Board-Financial-Plan-2027.xlsx,Filesystem activity associated with filename,2026-09-22T10:15:00+01:00

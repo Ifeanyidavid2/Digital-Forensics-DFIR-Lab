@@ -1,0 +1,42 @@
+Case ID: DFIR-2026-003
+Analysis: Filesystem Artifact Correlation
+
+OBSERVATIONS
+
+1. Windows Security Log
+Evidence ID: DFIR-D05-E004
+An authenticated session associated with user David was active at 10:10.
+
+2. USB Artifact
+Evidence ID: DFIR-D05-E003
+A Training USB Device was recorded as connected at 10:12.
+
+3. NTFS $MFT
+Evidence ID: DFIR-D05-E001
+An MFT record associated with Board-Financial-Plan-2027.xlsx was marked deleted at 10:14 in the simulated evidence.
+
+4. NTFS $UsnJrnl
+Evidence ID: DFIR-D05-E002
+Filesystem activity associated with Board-Financial-Plan-2027.xlsx was recorded at 10:15 in the simulated evidence.
+
+CORRELATION
+
+The four artifacts occur within a five-minute period. The authenticated session was active before the USB connection and the filesystem events. The USB connection preceded the MFT and USN activity involving the spreadsheet.
+
+HYPOTHESIS
+
+The timeline is consistent with activity involving Board-Financial-Plan-2027.xlsx occurring shortly after a USB device was connected while David's authenticated session was active.
+
+The evidence may support investigation of whether the file was accessed, copied, transferred, or deleted during this period. However, the present artifact set does not independently establish that the USB device was used to copy the file.
+
+ATTRIBUTION ASSESSMENT
+
+The current evidence does not establish that David personally connected the USB device, copied the spreadsheet, or deleted the file.
+
+An authenticated session identifies the account/session context but does not by itself establish the identity of the person physically or remotely performing an action.
+
+Additional evidence would be required for stronger attribution.
+
+CONCLUSION
+
+The artifacts demonstrate temporally correlated USB, user-session, MFT, and USN activity. They support further investigation into possible file removal or transfer but do not establish personal attribution or prove that the USB device was responsible for the file's disappearance.

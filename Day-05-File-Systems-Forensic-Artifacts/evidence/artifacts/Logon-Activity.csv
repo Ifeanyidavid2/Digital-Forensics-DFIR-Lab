@@ -1,0 +1,2 @@
+CaseID,EvidenceID,Artifact,User,Activity,Timestamp
+DFIR-2026-003,DFIR-D05-E004,Windows Security Log,David,Authenticated session active during relevant period,2026-09-22T10:10:00+01:00
