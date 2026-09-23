@@ -1,0 +1,2 @@
+"CaseID","Timestamp","Process","PID","SourceIP","DestinationIP","DestinationPort","Protocol","BytesSent","BytesReceived"
+"DFIR-2026-005","2026-09-23T09:20:25+01:00","powershell.exe","5368","10.10.20.45","185.XX.XX.24","443","TCP","1842","5276"

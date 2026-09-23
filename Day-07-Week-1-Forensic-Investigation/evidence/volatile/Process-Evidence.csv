@@ -1,0 +1,4 @@
+"CaseID","Timestamp","Process","PID","Parent","User","CommandLine"
+"DFIR-2026-005","2026-09-23T09:19:58+01:00","WINWORD.EXE","4216","explorer.exe","David","""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ""C:\Users\David\Downloads\Invoice-September.docm"""
+"DFIR-2026-005","2026-09-23T09:20:14+01:00","powershell.exe","5368","WINWORD.EXE","David","powershell.exe -NoProfile -WindowStyle Hidden -EncodedCommand <TRAINING-DATA>"
+"DFIR-2026-005","2026-09-23T09:20:19+01:00","update.exe","5844","powershell.exe","David","C:\Users\David\AppData\Local\Temp\update.exe"

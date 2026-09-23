@@ -1,0 +1,2 @@
+"CaseID","Timestamp","Event","DeviceType","Vendor","Product","Serial","DriveLetter","UserContext"
+"DFIR-2026-005","2026-09-23T09:24:03+01:00","DeviceConnected","USB Mass Storage","SanDisk","Ultra","DFIR-D07-USB-001","E:","David"

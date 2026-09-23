@@ -1,0 +1,5 @@
+"CaseID","Timestamp","Action","Path","Source"
+"DFIR-2026-005","2026-09-23T09:19:41+01:00","FileObserved","C:\Users\David\Downloads\Invoice-September.docm","Filesystem"
+"DFIR-2026-005","2026-09-23T09:20:18+01:00","FileCreated","C:\Users\David\AppData\Local\Temp\update.exe","Filesystem"
+"DFIR-2026-005","2026-09-23T09:25:41+01:00","FileAccessed","C:\Users\David\Documents\Board-Financial-Plan-2027.xlsx","Filesystem"
+"DFIR-2026-005","2026-09-23T09:27:12+01:00","FileDeleted","C:\Users\David\Documents\Board-Financial-Plan-2027.xlsx","Filesystem"
