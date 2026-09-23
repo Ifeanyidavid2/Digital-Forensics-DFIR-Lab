@@ -1,0 +1,4 @@
+"CaseID","EvidenceID","RecoveredArtifact","Offset","Signature","RecoveryStatus","LengthBytes","SHA256","VerificationResult","Comparison"
+"DFIR-2026-004","DFIR-D06-E001","carved_pdf_001.pdf","0x100000","25 50 44 46","Complete","201","912C3E56D35A6360B995A6CB4885796B91AFD5E57C4F0F0149F23F6D534518C8","MATCH","Executive-Budget.pdf"
+"DFIR-2026-004","DFIR-D06-E002","carved_pdf_002.pdf","0x300000","25 50 44 46","Complete","197","3C7EF764277C7663EB4F3BE86FBD288060782DE4228453080D6C696C1688F78E","MATCH","Known source bytes from recovered_001.jpg"
+"DFIR-2026-004","DFIR-D06-E003","carved_office_fragment_001.bin","0x500000","50 4B 03 04","Partial","64","8F67B227E826BC4CA57938694C11FC4F714B97FA7B6431860B6C84A881D9C337","PARTIAL MATCH","Matches first 64 bytes of known 92-byte training artifact"

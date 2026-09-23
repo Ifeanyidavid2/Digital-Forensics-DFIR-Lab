@@ -1,0 +1,60 @@
+CASE ID: DFIR-2026-004
+DAY 06: DELETED FILE RECOVERY AND FILE CARVING
+
+PURPOSE
+This controlled laboratory exercise examined signature-based recovery from a raw binary evidence image and demonstrated the distinction between complete recovery, partial recovery, file extensions, file signatures, and forensic attribution.
+
+EVIDENCE IMAGE
+DFIR-D06-EVIDENCE.img
+Size: 8,388,608 bytes
+Baseline SHA-256:
+43897BD263327B8BCD00404E4228A58BB0399F7B7A93F3FBB0C0A4C24ADB08EC
+
+OBSERVATION 1 — PDF SIGNATURE AT 0x100000
+A %PDF signature was discovered at offset 0x100000 without relying on a source filename. Header/footer carving recovered a 201-byte PDF-like artifact.
+
+The recovered artifact SHA-256 matched the known controlled source Executive-Budget.pdf.
+
+Within this controlled laboratory dataset, the recovered bytes are therefore bit-for-bit identical to that known source artifact.
+
+OBSERVATION 2 — PDF SIGNATURE AT 0x300000
+A second %PDF signature was discovered at offset 0x300000. Header/footer carving recovered a 197-byte PDF-like artifact.
+
+Its SHA-256 matched the known source artifact named recovered_001.jpg.
+
+This demonstrates that a filename extension must not be treated as authoritative evidence of file type. Although the source used a .jpg extension, its content contained a PDF signature and PDF-like structure.
+
+OBSERVATION 3 — ZIP-STYLE SIGNATURE AT 0x500000
+A 50 4B 03 04 signature was discovered at offset 0x500000.
+
+A conservative 64-byte fragment was recovered. The recovered fragment did not match the SHA-256 of the complete 92-byte known source artifact because the compared byte sequences differed in length.
+
+The recovered fragment did, however, match the SHA-256 calculated over the first 64 bytes of the known source training artifact.
+
+The artifact is therefore documented as a partial recovered fragment, not as a complete Microsoft Excel workbook.
+
+ATTRIBUTION ASSESSMENT
+The laboratory provides known source artifacts because the evidence image was deliberately constructed for training. This allows direct source-to-recovery verification.
+
+In a real investigation, a carved artifact should not automatically inherit a deleted filename merely because compatible filesystem metadata exists elsewhere. Attribution should be supported through metadata, hashes, file size, timestamps, storage relationships, embedded metadata, content, and other corroborating evidence where available.
+
+INTEGRITY
+The SHA-256 of the controlled evidence image was recalculated after analysis. A matching post-analysis hash supports that the evidence image remained bit-for-bit unchanged during the measured analysis interval.
+
+LIMITATIONS
+This exercise used a controlled binary training image rather than a forensic image of a production filesystem.
+
+The PDF artifacts are simplified training artifacts.
+
+The ZIP-style artifact is not a genuine Microsoft Excel workbook. It is a deliberately constructed binary artifact beginning with a ZIP-style signature.
+
+The 64-byte recovery was intentionally limited to demonstrate partial recovery and uncertain file boundaries.
+
+No claim is made that this laboratory reproduces all behavior of NTFS deletion, SSD TRIM, filesystem fragmentation, or professional forensic carving tools.
+
+CONCLUSION
+Signature-based carving successfully identified and recovered two complete PDF-like training artifacts and one partial ZIP-style fragment from the controlled evidence image.
+
+Hash comparison demonstrated the difference between complete-file identity and partial-byte-sequence identity.
+
+The exercise reinforces the principle that recovery, identification, correlation, and attribution are separate forensic conclusions and must not be treated as interchangeable.

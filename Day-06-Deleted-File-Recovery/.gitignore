@@ -1,0 +1,6 @@
+# Generated forensic evidence images
+*.img
+*.dd
+
+# Temporary backup files
+*.bak
