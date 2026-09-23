@@ -145,15 +145,10 @@ Examples of common signatures include:
 
 
 | Format | Signature                 |
-
 | ------ | ------------------------- |
-
 | PDF    | `25 50 44 46`             |
-
 | JPEG   | `FF D8 FF`                |
-
 | PNG    | `89 50 4E 47 0D 0A 1A 0A` |
-
 | ZIP    | `50 4B 03 04`             |
 
 
@@ -201,13 +196,9 @@ Analysis identified the following signatures:
 
 
 | Offset     | Signature     | Interpretation |
-
 | ---------- | ------------- | -------------- |
-
 | `0x100000` | `25 50 44 46` | PDF-like data  |
-
 | `0x300000` | `25 50 44 46` | PDF-like data  |
-
 | `0x500000` | `50 4B 03 04` | ZIP-style data |
 
 
