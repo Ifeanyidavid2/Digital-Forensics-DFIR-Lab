@@ -1,0 +1,7 @@
+"Artifact","Source","Result","Reason"
+"SYSTEM","C:\Windows\System32\config\SYSTEM","Access Denied","Current PowerShell session lacked required privileges."
+"SOFTWARE","C:\Windows\System32\config\SOFTWARE","Access Denied","Current PowerShell session lacked required privileges."
+"SAM","C:\Windows\System32\config\SAM","Access Denied","Current PowerShell session lacked required privileges."
+"SECURITY","C:\Windows\System32\config\SECURITY","Access Denied","Current PowerShell session lacked required privileges."
+"NTUSER.DAT","C:\Users\Ifean\NTUSER.DAT","Not Acquired","Live loaded hive was in use; direct hashing and Copy-Item acquisition failed."
+"Security Event Log","Windows Security Event Log","Access Denied","Get-WinEvent reported that elevated user rights are required."

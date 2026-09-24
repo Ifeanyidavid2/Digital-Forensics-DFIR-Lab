@@ -1,0 +1,4 @@
+"EvidenceID","ArtifactType","Artifact","AcquisitionType","SHA256","Integrity","Notes"
+"DFIR-D08-E001","Prefetch","POWERSHELL.EXE-CA1AE517.pf","File Copy","88D5A522699DA8808BFB2A7DCCBFB7D2B596B13BB0A1B97E5F7B775E1F91B15D","MATCH","Source and acquired-copy SHA-256 matched."
+"DFIR-D08-E002","Windows Event Log","PowerShell-Operational-Events.csv","Derived CSV Export","2BF0FB024302980E006F2D8CE9386604C2347863FDD0C017B1EEA5B71984190B","BASELINE","Derived from 372 events retrieved through Get-WinEvent; not a bit-for-bit EVTX copy."
+"DFIR-D08-E003","LNK","Day 8 Practical Lab Answer.docx.lnk","File Copy","1AE1EF67753016C2E6283D143A0FEFA313370EB2E7EB3B110ED476B469D40ADE","MATCH","Source and acquired-copy SHA-256 compared."
