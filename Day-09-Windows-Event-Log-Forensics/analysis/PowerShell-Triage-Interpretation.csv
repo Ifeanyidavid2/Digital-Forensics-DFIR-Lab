@@ -1,0 +1,5 @@
+"Indicator","RawHits","LogicalBlocks","Context","Assessment"
+"FromBase64String","2","2","Exchange temporary modules; decodes FilterWarningsInPagination for warning filtering","Observed functionality; current context does not establish malicious Base64 execution or evasion"
+"Invoke-WebRequest","6","2","Exchange module code including Get-HttpTimeout/comment references","Keyword occurrence does not establish Internet retrieval or malware download"
+"WebClient","42","1","ExternalHelp Microsoft.Exchange.WebClient-Help.xml reference","Keyword match does not establish WebClient download activity"
+"IEX","11","6","Substring matches; standalone IEX token search returned zero logical blocks","No standalone IEX token identified by the performed regex search; original substring hits do not establish Invoke-Expression execution"

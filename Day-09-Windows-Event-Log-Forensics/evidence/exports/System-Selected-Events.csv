@@ -1,0 +1,484 @@
+"TimeCreated","RecordId","Id","ProviderName","LevelDisplayName","Message"
+"30/12/2025 05:58:58","44411","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"31/12/2025 17:53:51","44881","6006","EventLog","Information","The Event log service was stopped."
+"31/12/2025 17:54:27","44890","6005","EventLog","Information","The Event log service was started."
+"01/01/2026 03:10:00","45082","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"09/01/2026 12:56:41","46481","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"09/01/2026 12:56:54","46460","6008","EventLog","Error","The previous system shutdown at 12:52:02 PM on ‎1/‎9/‎2026 was unexpected."
+"09/01/2026 12:56:54","46462","6005","EventLog","Information","The Event log service was started."
+"10/01/2026 23:06:03","46840","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"16/01/2026 21:24:42","47636","6006","EventLog","Information","The Event log service was stopped."
+"16/01/2026 21:25:14","47745","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"16/01/2026 21:25:14","47647","6005","EventLog","Information","The Event log service was started."
+"16/01/2026 21:25:16","47755","6006","EventLog","Information","The Event log service was stopped."
+"16/01/2026 21:33:08","47795","6005","EventLog","Information","The Event log service was started."
+"18/01/2026 17:37:14","48100","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the restart of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+"18/01/2026 17:37:40","48103","6006","EventLog","Information","The Event log service was stopped."
+"18/01/2026 17:38:14","48115","6005","EventLog","Information","The Event log service was started."
+"19/01/2026 19:05:26","48440","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"04/02/2026 21:16:33","49769","6006","EventLog","Information","The Event log service was stopped."
+"04/02/2026 21:17:03","49874","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"04/02/2026 21:17:03","49778","6005","EventLog","Information","The Event log service was started."
+"04/02/2026 21:17:05","49888","6006","EventLog","Information","The Event log service was stopped."
+"09/02/2026 08:49:53","49918","6005","EventLog","Information","The Event log service was started."
+"10/02/2026 14:08:22","50474","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"10/02/2026 14:08:32","50476","6006","EventLog","Information","The Event log service was stopped."
+"10/02/2026 15:40:03","50485","6005","EventLog","Information","The Event log service was started."
+"12/02/2026 12:37:33","51242","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"12/02/2026 18:53:04","51285","6006","EventLog","Information","The Event log service was stopped."
+"12/02/2026 18:53:45","51291","6005","EventLog","Information","The Event log service was started."
+"12/02/2026 19:02:04","51444","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"12/02/2026 21:41:21","51611","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  McAfee WebAdvisor
+Service File Name:  ""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"14/02/2026 19:58:05","52040","6006","EventLog","Information","The Event log service was stopped."
+"14/02/2026 19:58:38","52047","6005","EventLog","Information","The Event log service was started."
+"18/02/2026 12:23:04","52919","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"22/02/2026 21:03:10","53924","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"22/02/2026 21:03:23","53903","6008","EventLog","Error","The previous system shutdown at 9:02:43 PM on ‎2/‎22/‎2026 was unexpected."
+"22/02/2026 21:03:23","53905","6005","EventLog","Information","The Event log service was started."
+"22/02/2026 23:34:07","54414","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"22/02/2026 23:34:16","54416","6006","EventLog","Information","The Event log service was stopped."
+"23/02/2026 11:13:56","54424","6005","EventLog","Information","The Event log service was started."
+"28/02/2026 16:15:53","55625","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"01/03/2026 19:22:47","55788","6006","EventLog","Information","The Event log service was stopped."
+"01/03/2026 19:23:14","55797","6005","EventLog","Information","The Event log service was started."
+"01/03/2026 22:02:38","55950","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"07/03/2026 10:04:22","55975","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService147.0.7703.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\147.0.7703.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"07/03/2026 10:13:46","56008","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService147.0.7703.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\147.0.7703.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"10/03/2026 20:17:50","56579","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Wondershare Native Push Service
+Service File Name:  ""C:\Users\Ifean\AppData\Local\Wondershare\Wondershare NativePush\WsNativePushService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"11/03/2026 19:54:00","56638","6006","EventLog","Information","The Event log service was stopped."
+"12/03/2026 12:16:00","56646","6005","EventLog","Information","The Event log service was started."
+"12/03/2026 16:40:49","56836","1074","User32","Information","The process C:\WINDOWS\Explorer.EXE (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"12/03/2026 16:41:02","56838","6006","EventLog","Information","The Event log service was stopped."
+"12/03/2026 20:55:23","56849","6005","EventLog","Information","The Event log service was started."
+"13/03/2026 00:02:56","57016","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"14/03/2026 15:43:43","57252","6006","EventLog","Information","The Event log service was stopped."
+"14/03/2026 15:44:11","57260","6005","EventLog","Information","The Event log service was started."
+"14/03/2026 15:44:58","57392","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: power off
+ Comment: "
+"17/03/2026 15:04:22","57558","6006","EventLog","Information","The Event log service was stopped."
+"18/03/2026 20:29:50","57569","6005","EventLog","Information","The Event log service was started."
+"18/03/2026 20:33:18","57719","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService148.0.7730.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"18/03/2026 22:12:52","57756","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"20/03/2026 10:25:44","57939","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService148.0.7730.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"31/03/2026 17:55:28","58501","6006","EventLog","Information","The Event log service was stopped."
+"31/03/2026 17:59:09","58510","6005","EventLog","Information","The Event log service was started."
+"31/03/2026 18:34:57","58673","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"20/04/2026 15:09:16","59684","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Microsoft Copilot Elevation Service (MicrosoftCopilotElevationService)
+Service File Name:  ""C:\Program Files (x86)\Microsoft\Copilot\Application\147.0.3912.72\elevation_service.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"24/04/2026 18:41:21","59897","6006","EventLog","Information","The Event log service was stopped."
+"30/04/2026 12:45:16","59907","6005","EventLog","Information","The Event log service was started."
+"30/04/2026 20:31:18","60265","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the restart of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+"30/04/2026 20:31:28","60267","6006","EventLog","Information","The Event log service was stopped."
+"30/04/2026 20:31:54","60367","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"30/04/2026 20:31:55","60275","6005","EventLog","Information","The Event log service was started."
+"30/04/2026 20:31:57","60380","6006","EventLog","Information","The Event log service was stopped."
+"01/05/2026 08:11:56","60408","6005","EventLog","Information","The Event log service was started."
+"01/05/2026 09:10:11","60627","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"03/05/2026 01:39:32","60726","6006","EventLog","Information","The Event log service was stopped."
+"05/05/2026 14:45:09","60738","6005","EventLog","Information","The Event log service was started."
+"05/05/2026 14:46:22","60869","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: power off
+ Comment: "
+"25/05/2026 14:26:53","60995","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService149.0.7814.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"31/05/2026 12:25:32","61494","6006","EventLog","Information","The Event log service was stopped."
+"01/06/2026 12:47:03","61502","6005","EventLog","Information","The Event log service was started."
+"01/06/2026 18:37:59","61680","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"03/06/2026 11:50:54","61850","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService149.0.7814.5)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.5\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"03/06/2026 15:56:25","62021","6006","EventLog","Information","The Event log service was stopped."
+"03/06/2026 16:09:01","62032","6005","EventLog","Information","The Event log service was started."
+"03/06/2026 17:01:18","62185","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"04/06/2026 12:58:23","62336","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService150.0.7863.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\150.0.7863.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"04/06/2026 14:03:24","62346","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService150.0.7863.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\150.0.7863.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"09/06/2026 11:45:09","62903","6006","EventLog","Information","The Event log service was stopped."
+"09/06/2026 12:33:57","62914","6005","EventLog","Information","The Event log service was started."
+"09/06/2026 14:25:56","63075","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"18/06/2026 14:36:25","63488","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  McAfee Security Scan Component Host Service
+Service File Name:  ""C:\Program Files (x86)\McAfee Security Scan\4.2.817\McCHSvc.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"21/06/2026 18:33:13","63748","6006","EventLog","Information","The Event log service was stopped."
+"22/06/2026 09:01:41","63757","6005","EventLog","Information","The Event log service was started."
+"22/06/2026 10:22:35","63930","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"22/06/2026 23:39:04","64069","6006","EventLog","Information","The Event log service was stopped."
+"23/06/2026 08:21:56","64080","6005","EventLog","Information","The Event log service was started."
+"23/06/2026 10:22:29","64255","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"30/06/2026 14:45:27","65144","6006","EventLog","Information","The Event log service was stopped."
+"30/06/2026 17:01:05","65155","6005","EventLog","Information","The Event log service was started."
+"30/06/2026 18:04:37","65308","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"03/07/2026 09:03:42","65437","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService151.0.7910.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\151.0.7910.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"03/07/2026 13:08:43","65647","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService151.0.7910.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\151.0.7910.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"04/07/2026 12:42:15","65923","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"04/07/2026 12:42:25","65903","6008","EventLog","Error","The previous system shutdown at 12:11:51 PM on ‎7/‎4/‎2026 was unexpected."
+"04/07/2026 12:42:25","65905","6005","EventLog","Information","The Event log service was started."
+"04/07/2026 16:04:53","66116","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"05/07/2026 18:35:04","66248","6006","EventLog","Information","The Event log service was stopped."
+"06/07/2026 12:49:21","66258","6005","EventLog","Information","The Event log service was started."
+"06/07/2026 14:50:22","66414","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"08/07/2026 10:31:10","66727","6006","EventLog","Information","The Event log service was stopped."
+"08/07/2026 10:31:49","66831","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"08/07/2026 10:31:49","66742","6005","EventLog","Information","The Event log service was started."
+"08/07/2026 10:31:52","66847","6006","EventLog","Information","The Event log service was stopped."
+"08/07/2026 12:21:10","66894","6005","EventLog","Information","The Event log service was started."
+"08/07/2026 13:15:19","67069","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"09/07/2026 11:03:47","67252","6006","EventLog","Information","The Event log service was stopped."
+"09/07/2026 11:04:21","67262","6005","EventLog","Information","The Event log service was started."
+"09/07/2026 11:05:05","67394","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"12/07/2026 20:18:13","68402","6006","EventLog","Information","The Event log service was stopped."
+"12/07/2026 22:45:40","68412","6005","EventLog","Information","The Event log service was started."
+"13/07/2026 00:34:05","68565","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"16/07/2026 18:06:07","69520","6006","EventLog","Information","The Event log service was stopped."
+"16/07/2026 19:58:00","69531","6005","EventLog","Information","The Event log service was started."
+"17/07/2026 00:23:46","69715","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"18/07/2026 17:18:11","69991","6006","EventLog","Information","The Event log service was stopped."
+"18/07/2026 18:55:44","70004","6005","EventLog","Information","The Event log service was started."
+"18/07/2026 22:15:06","70184","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"18/07/2026 22:15:17","70186","6006","EventLog","Information","The Event log service was stopped."
+"20/07/2026 09:35:23","70197","6005","EventLog","Information","The Event log service was started."
+"20/07/2026 15:59:58","70398","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"22/07/2026 13:50:22","70684","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"22/07/2026 13:50:31","70664","6008","EventLog","Error","The previous system shutdown at 10:33:51 AM on ‎7/‎22/‎2026 was unexpected."
+"22/07/2026 13:50:31","70666","6005","EventLog","Information","The Event log service was started."
+"23/07/2026 12:28:13","70877","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"23/07/2026 21:36:58","71160","6006","EventLog","Information","The Event log service was stopped."
+"24/07/2026 10:53:30","71173","6005","EventLog","Information","The Event log service was started."
+"24/07/2026 10:59:47","71330","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the restart of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: restart
+ Comment: "
+"24/07/2026 11:00:19","71340","6006","EventLog","Information","The Event log service was stopped."
+"24/07/2026 11:00:55","71349","6005","EventLog","Information","The Event log service was started."
+"24/07/2026 12:30:03","71499","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"27/07/2026 12:03:09","71920","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  nllDrvBrg
+Service File Name:  C:\WINDOWS\system32\drivers\nllDrvBrg.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"27/07/2026 12:03:09","71921","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  nllAsz
+Service File Name:  C:\WINDOWS\system32\drivers\nllAsz.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"28/07/2026 00:46:50","72069","6006","EventLog","Information","The Event log service was stopped."
+"28/07/2026 11:40:21","72082","6005","EventLog","Information","The Event log service was started."
+"28/07/2026 14:27:08","72267","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"04/08/2026 23:57:37","72987","6006","EventLog","Information","The Event log service was stopped."
+"05/08/2026 08:06:59","73001","6005","EventLog","Information","The Event log service was started."
+"06/08/2026 00:04:01","73298","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"13/08/2026 01:49:06","74795","6006","EventLog","Information","The Event log service was stopped."
+"13/08/2026 01:49:45","74907","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"13/08/2026 01:49:46","74808","6005","EventLog","Information","The Event log service was started."
+"13/08/2026 01:49:48","74918","6006","EventLog","Information","The Event log service was stopped."
+"14/08/2026 08:14:32","74958","6005","EventLog","Information","The Event log service was started."
+"15/08/2026 02:26:38","75310","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the restart of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+"15/08/2026 02:26:50","75312","6006","EventLog","Information","The Event log service was stopped."
+"15/08/2026 11:00:40","75416","1074","User32","Information","The process C:\WINDOWS\system32\winlogon.exe (DESKTOP-PCML6D5) has initiated the shutdown of computer DESKTOP-PCML6D5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: No title for this reason could be found
+ Reason Code: 0x500ff
+ Shutdown Type: shutdown
+ Comment: "
+"15/08/2026 11:00:40","75323","6005","EventLog","Information","The Event log service was started."
+"15/08/2026 11:00:42","75424","6006","EventLog","Information","The Event log service was stopped."
+"15/08/2026 11:01:46","75435","6005","EventLog","Information","The Event log service was started."
+"16/08/2026 00:37:10","75746","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"20/08/2026 10:07:36","76348","6006","EventLog","Information","The Event log service was stopped."
+"20/08/2026 10:08:20","76354","6005","EventLog","Information","The Event log service was started."
+"21/08/2026 00:58:30","76571","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"25/08/2026 15:57:10","77411","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Bonjour Service
+Service File Name:  ""C:\Program Files\Bonjour\mDNSResponder.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 15:57:27","77412","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Apple Mobile Device Service
+Service File Name:  ""C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 15:57:30","77413","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Wondershare Install Assist Service
+Service File Name:  C:\ProgramData\Wondershare\Service\InstallAssistService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 15:57:32","77414","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Wondershare WSID help
+Service File Name:  C:\ProgramData\Wondershare\wsServices\WsidService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 15:57:32","77415","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Wondershare Driver Install Service help
+Service File Name:  C:\ProgramData\Wondershare\wsServices\ElevationService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 15:57:32","77416","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  Wondershare WirelessBackup Service help
+Service File Name:  C:\Program Files\Wondershare\Wondershare Dr.Fone Basic\Addins\Recovery\WirelessBackupService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25/08/2026 16:18:20","77428","6006","EventLog","Information","The Event log service was stopped."
+"26/08/2026 09:53:45","77441","6005","EventLog","Information","The Event log service was started."
+"27/08/2026 09:40:24","77779","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"27/08/2026 09:40:37","77759","6008","EventLog","Error","The previous system shutdown at 6:21:18 AM on ‎8/‎27/‎2026 was unexpected."
+"27/08/2026 09:40:37","77761","6005","EventLog","Information","The Event log service was started."
+"31/08/2026 01:38:17","78485","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"01/09/2026 15:59:54","78734","6006","EventLog","Information","The Event log service was stopped."
+"01/09/2026 16:00:36","78743","6005","EventLog","Information","The Event log service was started."
+"02/09/2026 00:21:12","78980","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"09/09/2026 14:07:05","80417","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"09/09/2026 14:07:19","80397","6008","EventLog","Error","The previous system shutdown at 4:17:28 PM on ‎9/‎8/‎2026 was unexpected."
+"09/09/2026 14:07:19","80399","6005","EventLog","Information","The Event log service was started."
+"14/09/2026 10:58:44","80722","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"14/09/2026 10:58:57","80702","6008","EventLog","Error","The previous system shutdown at 3:44:29 AM on ‎9/‎11/‎2026 was unexpected."
+"14/09/2026 10:58:57","80704","6005","EventLog","Information","The Event log service was started."
+"14/09/2026 14:09:28","80923","1074","User32","Information","The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-PCML6D5) has initiated the power off of computer DESKTOP-PCML6D5 on behalf of user DESKTOP-PCML6D5\Ifean for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+"24/09/2026 11:25:32","82261","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  McAfee Security Scan Component Host Service
+Service File Name:  ""C:\Program Files (x86)\McAfee Security Scan\4.2.844\McCHSvc.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"25/09/2026 10:23:12","82445","7045","Service Control Manager","Information","A service was installed in the system.
+
+Service Name:  ChatGPT
+Service File Name:  ""C:\Program Files\WindowsApps\OpenAI.Codex_26.917.9434.0_x64__2p2nqsd0c76g0\app\resources\codex-windows-sandbox-service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
