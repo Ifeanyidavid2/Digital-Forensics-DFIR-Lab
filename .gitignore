@@ -1,0 +1,6 @@
+# Day 10 - Registry forensic evidence
+# Raw and working Registry hive snapshots are excluded from Git.
+# Integrity hashes and analysis results are retained in the repository.
+/Day-10-Windows-Registry-Forensics/evidence/registry/*.hiv
+/Day-10-Windows-Registry-Forensics/evidence/exports/*.hiv
+/Day-10-Windows-Registry-Forensics/evidence/exports/*.hiv*
