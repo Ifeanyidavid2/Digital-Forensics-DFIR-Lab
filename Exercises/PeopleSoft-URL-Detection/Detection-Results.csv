@@ -1,0 +1,3 @@
+"Host","RawPath","NormalizedPath","Priority","RelatedProcess"
+"WEB01","/%50SEMHUB/hub","/PSEMHUB/hub","High - investigate process execution","java.exe -> cmd.exe"
+"WEB02","/PSEMHUB/hub","/PSEMHUB/hub","Lead - investigate request and exposure","None observed"
