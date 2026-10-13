@@ -4,3 +4,11 @@
 /Day-10-Windows-Registry-Forensics/evidence/registry/*.hiv
 /Day-10-Windows-Registry-Forensics/evidence/exports/*.hiv
 /Day-10-Windows-Registry-Forensics/evidence/exports/*.hiv*
+
+# Day 11 - Windows user activity forensic evidence and working files
+/Day-11-Windows-User-Activity-Forensics/analysis/registry-working/
+/Day-11-Windows-User-Activity-Forensics/analysis/system-working/
+/Day-11-Windows-User-Activity-Forensics/analysis/SBECmd-Input/
+/Day-11-Windows-User-Activity-Forensics/analysis/SBECmd-Output/
+/Day-11-Windows-User-Activity-Forensics/evidence/
+
