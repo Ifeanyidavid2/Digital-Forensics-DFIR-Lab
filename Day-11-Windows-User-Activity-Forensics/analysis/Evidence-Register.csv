@@ -1,0 +1,8 @@
+"EvidenceID","Artifact","Source","AcquiredLocation","ItemCount","SHA256","Status"
+"DFIR-D11-E001","Recent LNK Collection",,"evidence\lnk\acquired","470","See File-Artifact-Acquisition-Verification.csv","588-file verification set: MATCH"
+"DFIR-D11-E002","AutomaticDestinations Jump Lists",,"evidence\jumplists\AutomaticDestinations","82","See File-Artifact-Acquisition-Verification.csv","588-file verification set: MATCH"
+"DFIR-D11-E003","CustomDestinations Jump Lists",,"evidence\jumplists\CustomDestinations","36","See File-Artifact-Acquisition-Verification.csv","588-file verification set: MATCH"
+"DFIR-D11-E004","NTUSER Registry Snapshot","HKU\S-1-5-21-272426600-1996297137-4257108005-1001","evidence\registry\NTUSER-DAT.hiv","1","FA6457FDCFC9110419F2BF24517C52AB45A2B78DA268FC5E14AED052427466EF","Baseline"
+"DFIR-D11-E005","UsrClass Registry Snapshot","HKU\S-1-5-21-272426600-1996297137-4257108005-1001_Classes","evidence\registry\UsrClass-DAT.hiv","1","0FE2A9F01B92A7473E69B6E955AE71F7E1A41074DF7CFD68A5A56DF1A7D8884A","Baseline"
+"DFIR-D11-E006","Day11 Evidence Correlation CSV","Derived from examined Day 11 artifacts","analysis\Day11-Evidence-Correlation.csv","7 correlation rows","065F7C5CD31BAFEFFF1B6B853D282AA7DB6399C4EED6FFDA70F14D452B827B04","Derived analysis artifact; hash recorded"
+"DFIR-D11-E007","Day11 Findings Report","Derived from correlated Day 11 findings","analysis\Day11-Findings-Report.md","1 report","C7BC659CD1A3FCF343B126A8AF3C62797664C4A95748134EAD441C0BC7F21CDD","Derived analysis artifact; hash recorded"

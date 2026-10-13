@@ -1,0 +1,2 @@
+"Area","Observation","Resolution","Limitation"
+"Registry acquisition","Initial reg.exe save attempt from non-elevated PowerShell failed with 'A required privilege is not held by the client' and exit code 1.","Two investigator-created zero-byte destination placeholders were verified as 0 bytes, removed, and acquisition was repeated from an elevated PowerShell session.","Registry evidence consists of Registry-aware snapshots from loaded HKU namespaces; the snapshots are not claimed to be bit-for-bit copies of the underlying live NTUSER.DAT or UsrClass.dat files."
