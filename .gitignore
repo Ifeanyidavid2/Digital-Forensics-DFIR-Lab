@@ -12,3 +12,9 @@
 /Day-11-Windows-User-Activity-Forensics/analysis/SBECmd-Output/
 /Day-11-Windows-User-Activity-Forensics/evidence/
 
+
+# Day 12 forensic evidence - keep registry hive out of Git
+Day-12-Windows-USB-Device-Forensics/evidence/SYSTEM-D11-Reference-Working.hiv
+
+# Day 12 forensic evidence and registry transaction files
+Day-12-Windows-USB-Device-Forensics/evidence/

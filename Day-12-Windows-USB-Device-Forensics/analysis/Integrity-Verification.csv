@@ -1,0 +1,3 @@
+"EvidenceID","Artifact","ExpectedSHA256","ActualSHA256","Status","Notes"
+"DFIR-D12-E001","Day 10 original SYSTEM.hiv","E66871DD776136F3E59675846A51A386424CEDE98CD985FE2415DF46D21E22E8","E66871DD776136F3E59675846A51A386424CEDE98CD985FE2415DF46D21E22E8","MATCH","Original source currently matches the Day 10 acquisition and post-analysis integrity records."
+"DFIR-D12-E002","Day 12 SYSTEM-D11-Reference-Working.hiv","E66871DD776136F3E59675846A51A386424CEDE98CD985FE2415DF46D21E22E8","61618E84FB3CC31DEE3A3A45E8387670E97D8F3BF24A0FEFDD8A17B4ADB290D5","MISMATCH","Working-copy hash differs from recorded baseline. Cause and time of change are undetermined. Hive was unloaded before this hash was obtained."
