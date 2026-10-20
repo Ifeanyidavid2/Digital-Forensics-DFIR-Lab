@@ -22,3 +22,9 @@ Day-12-Windows-USB-Device-Forensics/evidence/
 # Day 13 - Windows execution artifacts: keep local analysis CSVs and evidence out of Git
 /Day-13-Windows-Execution-Artifacts-Forensics/analysis/*.csv
 /Day-13-Windows-Execution-Artifacts-Forensics/evidence/
+
+
+# Day 14 - Prefetch parsing: keep local analysis outputs and evidence out of Git
+/Day-14-Prefetch-Parsing-and-Timeline/analysis/*.csv
+/Day-14-Prefetch-Parsing-and-Timeline/analysis/*.json
+/Day-14-Prefetch-Parsing-and-Timeline/evidence/
